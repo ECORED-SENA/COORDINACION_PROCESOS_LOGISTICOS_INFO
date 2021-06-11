@@ -1,8 +1,8 @@
-# **Construcción de bases de datos con MYSQL**
+# **Tecnología en coordinación de procesos logísticos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/CONSTRUCCION_BD_MYSQL_INFO/](https://ecored-sena.github.io/CONSTRUCCION_BD_MYSQL_INFO/)
+[https://ecored-sena.github.io/COORDINACION_PROCESOS_LOGISTICOS_INFO/](https://ecored-sena.github.io/COORDINACION_PROCESOS_LOGISTICOS_INFO/)
 
 #
 
