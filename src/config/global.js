@@ -4,10 +4,10 @@ export const global = {
   horas: '3984',
   semanas: '27',
   modalidad: 'virtual',
-  requisitosIngrso: [
-    'solicitud del interesado.',
-    'cumplir los requisitos exigidos por el centro de formación.',
-  ],
+  //requisitosIngrso: [
+  //  'solicitud del interesado.',
+  //  'cumplir los requisitos exigidos por el centro de formación.',
+  //],
   // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
     '<iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/MKdY3sDTyS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>',
@@ -266,45 +266,33 @@ export const creditos = {
       regional: 'Regional Santander',
     },
     {
-      nombre: 'Henry Eduardo Bastidas Paruma',
-      cargo: 'Experto temático Instructor',
-      centro: 'Centro de Teleinformática y Producción Industrial',
-      regional: 'Regional Cauca',
+      nombre: 'Nelly Parra Guarín',
+      cargo: 'Experto temático ',
+      centro: 'Centro de Gestión Industrial',
+      regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Tania Yaneth Ramírez Benítez',
-      cargo: 'Soporte organizacional',
-      centro: 'Centro de Comercio y Servicios',
-      regional: 'Regional Tolima',
+      nombre: 'Rafael Rodríguez Cuellar',
+      cargo: 'Experto temático',
+      centro: 'Centro de la Industria, la Empresa y los Servicios',
+      regional: 'Regional Huila',
     },
     {
-      nombre: 'Gloria Esperanza Ortiz Russi',
-      cargo: 'Diseñadora y Evaluadora Instruccional',
-      centro: 'Centro de Diseño y Metrología',
-      regional: 'Distrito Capital',
-    },
-    {
-      nombre: 'Dayra Maritza Paz Calderón',
-      cargo: 'Evaluadora Instruccional',
-      centro: 'Centro de Diseño y Metrología',
-      regional: 'Distrito Capital',
-    },
-    {
-      nombre: 'Julia Isabel Roberto',
-      cargo: 'Diseñadora y Evaluadora Instruccional',
-      centro: 'Centro para la Industria de la Comunicación Gráfica',
-      regional: 'Distrito Capital',
-    },
-    {
-      nombre: 'José Gabriel Ortiz Abella',
-      cargo: 'Revisión metodológica y pedagógica',
+      nombre: 'Luis Fernando Botero Mendoza',
+      cargo: 'Diseñador Instruccional',
       centro: 'Centro para la Industria de la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Martha Isabel Martínez Vargas',
-      cargo: 'Corrección de estilo',
-      centro: 'Centro para la Industria y la Comunicación Gráfica',
+      nombre: 'Andrés Felipe Velandia Espitia',
+      cargo: 'Revisor pedagógico y metodológico',
+      centro: 'Centro de Diseño Y metrología',
+      regional: 'Regional Distrito Capital',
+    },
+    {
+      nombre: 'Sandra Patricia  Hoyos Sepúlveda',
+      cargo: 'Edición y corrección de estilo',
+      centro: 'Centro para la Industria de la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
   ],
@@ -318,17 +306,15 @@ export const creditos = {
       cargo: 'Soporte Organizacional',
     },
     {
-      nombre: [
-        'Carlos Julián Ramírez Benítez',
-        'Martha Isabel Martínez Vargas',
-      ],
+      nombre: ['Daniel Ricardo Mutis Gómez'],
       cargo: 'Diseño web',
     },
     {
       nombre: [
         'Gilberto Junior Rodríguez Rodríguez',
-        'Nelson Vera Briceño',
-        'Wilson Andrés Arenales Cáceres',
+        'Ludwyng Corzo',
+        'Maria Carolina Tamayo',
+        'Wilson Andres Arenales Caceres',
         'Zuleidy María Ruiz Torres',
       ],
       cargo: 'Producción Audiovisual',
@@ -336,6 +322,14 @@ export const creditos = {
     {
       nombre: 'Daniel Ricardo Mutis Gómez',
       cargo: 'Desarrollo Front-End',
+    },
+    {
+      centro: 'Centro Industrial del Diseño y la Manufactura',
+      regional: 'Regional Santander',
+    },
+    {
+      nombre: 'Maria Isabel Román Rueda',
+      cargo: 'Validación de diseño y contenido',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
